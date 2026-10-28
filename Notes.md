@@ -1,0 +1,1 @@
+Intial we had only the folder in which we starting development by first setting up the basic react project using command *"npm create vite@lates"*
